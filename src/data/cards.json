@@ -1,0 +1,27 @@
+{ "cards" : [
+    {
+      "image": "https://cdn.pixabay.com/photo/2017/09/06/20/36/doctor-2722941_640.jpg",
+      "heading": "JHON",
+      "subheading": "(Subdumy)",
+      "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2017/03/14/03/20/woman-2141808_640.jpg",
+        "heading": "JHON",
+      "subheading": "(Subdumy)",
+        "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2020/03/14/17/05/virus-4931227_640.jpg",
+        "heading": "JHON",
+        "subheading": "(Subdumy)",
+        "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    },
+    {
+        "image": "https://media.istockphoto.com/id/1470505351/photo/portrait-of-a-smiling-doctor-holding-glasses-and-a-mobile-phone-at-the-office.webp?b=1&s=612x612&w=0&k=20&c=YqkjU0uI2UvEqPpyt4lQPcK9bt-OiC7WnrVmrpEtzjs=",
+        "heading": "JHON",
+      "subheading": "(Subdumy)",
+        "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    }
+  ]
+}

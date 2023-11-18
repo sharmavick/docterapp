@@ -1,0 +1,21 @@
+{ "card" : [
+    {
+      "image": "https://cdn.pixabay.com/photo/2023/08/30/15/42/ai-generated-8223597_640.jpg",
+      "heading": "JHON",
+      "subheading": "(Subdumy)",
+      "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2020/04/16/15/39/medical-5051148_640.jpg",
+        "heading": "JHON",
+      "subheading": "(Subdumy)",
+        "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    },
+    {
+        "image": "https://cdn.pixabay.com/photo/2020/10/20/15/14/massage-5670714_640.png",
+        "heading": "JHON",
+        "subheading": "(Subdumy)",
+        "text": "Lorem ipsum is placeholder text commonly used in the graphic"
+    }
+  ]
+}
